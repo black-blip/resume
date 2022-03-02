@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/black-blip/resume/edit/gh-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+New Jersey Institute of Technology
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
